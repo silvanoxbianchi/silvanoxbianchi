@@ -1,4 +1,4 @@
-### hey, I'm Silvano — though depending who's asking it's Silvi, Silva, Bibbi, or lately Slivio
+### hey, I'm Silvano. Depending who's asking it's Silvi, Silva, Bibbi, or lately Slivio
 
 Tech lead at Pirelli by day. The rest of the time I build small, weird, finished things —
 mostly for an audience of one.
@@ -10,8 +10,8 @@ mostly for an audience of one.
 ### why most of what I build never shows up here
 
 Most of my code lives in two places you'll never see: production systems that belong to a
-company, not to me, and personal experiments that are genuinely not meant for anyone else —
-throwaway tools, half-finished ideas, things I built to answer a question for myself and
+company, not to me, and personal experiments that are genuinely not meant for anyone else.
+Throwaway tools, half-finished ideas, things I built to answer a question for myself and
 then never touched again.
 
 I'd rather keep this profile short and have every public repo be something I'd actually stand
@@ -22,9 +22,8 @@ my day job anyway: deciding what's worth shipping and what isn't.
 
 ### want to know me better?
 
-[This is my blog](https://silvanoxbianchi.github.io/one-picture-a-day/) — a running,
-mostly-daily dump of photos, songs, and whatever's on my mind, if you're more curious about
-the person than the code.
+If you're more curious about the person than the code, [this is my blog](https://silvanoxbianchi.github.io/one-picture-a-day/):
+a running, mostly-daily dump of photos, songs, and whatever's on my mind.
 
 ---
 
