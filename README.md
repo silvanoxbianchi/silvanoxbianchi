@@ -1,6 +1,6 @@
 ### hey, I'm Silvano. Depending who's asking it's Silvi, Silva, Bibbi, or lately Slivio
 
-Tech lead at Pirelli by day. The rest of the time I build small, weird, finished things —
+Tech lead at Pirelli by day. The rest of the time I build small, weird, finished things,
 mostly for an audience of one.
 
 **A heads-up before you scroll further: my repo list here is short. That's not an accident.**
